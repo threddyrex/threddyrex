@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**threddyrex/threddyrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Threddy 🦖 started in 2017, mostly by accident. I tweeted a gif of a ceramic dinosaur and joked that he could be a mascot for our twitter group. I expected the joke to last one day, however it's been years and I'm still pretending to be a dinosaur on the internet.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Links
+
+* [Comics Archive](https://threddyrex-my.sharepoint.com/:f:/p/hello/Ej_c_OKHGwFPg6nErgLWeX8BugoeIzEYynFIEy8eo5Py1A?e=ejw6Nv) - an archive of the Threddy Comics
+* [Career Principles](https://github.com/threddyrex/docs/blob/main/career-principles.md) - a document describing principles I follow in my career
+* [hachyderm.io](https://hachyderm.io/@threddyrex), [mastodon.social](https://mastodon.social/@threddyrex) - Mastodon accounts
+* [Twitter](https://twitter.com/threddyrex)
+* [Redbubble](https://www.redbubble.com/people/threddythetrex) - t-shirts and other merch
+* [Tenor](https://tenor.com/users/threddyrex) - gifs
+
