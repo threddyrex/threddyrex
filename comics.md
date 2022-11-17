@@ -141,50 +141,50 @@
 * 7/18/2019 – seattle summer – 
 * 7/13/2019 – thomas the tank engine –
 * 7/12/2019 – seattle earthquake –
-* 7/2/2019 – mural – 
-* 7/1/2019 – mobile trash –
-* 6/27/2019 – eating better – 
-* 6/26/2019 – buried in email –
-* 6/25/2019 – **career discussions** – 
-* 6/24/2019 – bunk desks –
-* 6/23/2019 – cars ride – 
-* 6/23/2019 – don’t make me go back – 
-* 6/17/2019 – dumbo – 
-* 6/14/2019 – vacation – 
-* 6/13/2019 – visitor’s center – 
-* 6/12/2019 – trash sign – 
-* 6/11/2019 – take the stairs – 
-* 6/10/2019 – engaged users – 
-* 6/10/2019 – blepster snippets – 
-* 6/8/2019 – **no work email on phone** –
-* 5/28/2019 – blepster influencer – 
-* 5/23/2019 – almost the weekend – 
-* 5/22/2019 – trash water – 
-* 5/21/2019 – starting a podcast – 
-* 5/17/2019 – pancake delivery – 
-* 5/14/2019 – **i don’t like your charts** – 
-* 5/6/2019 – hostile meetings – 
-* 4/30/2019 – **pac** – 
-* 4/30/2019 – developer conferences – 
-* 4/19/2019 – excited about sbc – 
-* 4/18/2019 – **open office poll** – 
-* 4/17/2019 – stinky lunch – 
-* 4/16/2019 – portable laptop holder – 
-* 4/15/2019 – freddy becomes vp – 
-* 4/11/2019 – **management training** – 
-* 4/10/2019 – blepster mau – 
-* 4/9/2019 – team player – 
-* 4/8/2019 – new version of blepster – 
-* 4/4/2019 – trash cans are safer – 
-* 4/2/2019 – blepster poll results – 
-* 3/18/2019 – redacted –
-* 3/15/2019 – **take my poll** – 
-* 3/14/2019 – mealtball – 
-* 3/13/2019 – can of worms – 
-* 3/8/2019 – construction – 
-* 3/5/2019 – blue badge – 
-* 2/20/2019 – disneyland paint the night – 
-* 2/15/2019 – walls don’t work – 
+* 7/2/2019 – mural – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190702%5Fmural%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 7/1/2019 – mobile trash – 
+* 6/27/2019 – eating better – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190627%5Feating%5Fbetter%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/26/2019 – buried in email – [OneDrive 1](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190626%5Fburied%5Fin%5Femail%5F01%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics), [OneDrive 2](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190626%5Fburied%5Fin%5Femail%5F02%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics), [OneDrive 3](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190626%5Fburied%5Fin%5Femail%5F03%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/25/2019 – **career discussions** – [OneDrive 1](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190625%5Fcareer%5Fdiscussions%5F01%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics), [OneDrive 2](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190625%5Fcareer%5Fdiscussions%5F02%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics), [OneDrive 3](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190625%5Fcareer%5Fdiscussions%5F03%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/24/2019 – bunk desks – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190624%5Fbunk%5Fdesks%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/23/2019 – cars ride – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190623%5Fcars%5Fride%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/23/2019 – don’t make me go back – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190623%5Fdont%5Fmake%5Fme%5Fgo%5Fback%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/17/2019 – dumbo – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190617%5Fdumbo%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/14/2019 – vacation – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190614%5Fvacation%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/13/2019 – visitor’s center – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190613%5Fvisitors%5Fcenter%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/12/2019 – trash sign – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190612%5Ftrash%5Fsign%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/11/2019 – take the stairs – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190611%5Ftake%5Fthe%5Fstairs%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/10/2019 – engaged users – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190610%5Fengaged%5Fusers%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/10/2019 – blepster snippets – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190610%5Fblepster%5Fsnippets%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 6/8/2019 – **no work email on phone** – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190608%5Fno%5Fwork%5Femail%5Fon%5Fphone%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 5/28/2019 – blepster influencer – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190528%5Fblepster%5Finfluencer%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 5/23/2019 – almost the weekend – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190523%5Falmost%5Fthe%5Fweekend%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 5/22/2019 – trash water – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190522%5Ftrash%5Fwater%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 5/21/2019 – starting a podcast – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190521%5Fstarting%5Fa%5Fpodcast%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 5/17/2019 – pancake delivery – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190517%5Fpancake%5Fdelivery%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 5/14/2019 – **i don’t like your charts** – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190514%5Fi%5Fdont%5Flike%5Fyour%5Fcharts%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 5/6/2019 – hostile meetings – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190506%5Fhostile%5Fmeetings%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/30/2019 – **pac** – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190430%5Fpac%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/30/2019 – developer conferences – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190430%5Fdeveloper%5Fconferences%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/19/2019 – excited about sbc – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190419%5Fexcited%5Fabout%5Fstandards%5Fof%5Fbusiness%5Fconduct%2Epng&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/18/2019 – **open office poll** – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190418%5Fopen%5Foffice%5Fpoll%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/17/2019 – stinky lunch – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190417%5Fstinky%5Flunch%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/16/2019 – portable laptop holder – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190416%5Fportable%5Flaptop%5Fholder%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/15/2019 – freddy becomes vp – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190415%5Ffreddy%5Fbecomes%5Fvp%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/11/2019 – **management training** – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190411%5Fmanagement%5Ftraining%5Fjargon%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/10/2019 – blepster mau – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190410%5Fblepster%5Fmau%5Femail%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/9/2019 – team player – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190409%5Fteam%5Fplayer%5Fmau%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/8/2019 – new version of blepster – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190408%5Fnew%5Fversion%5Fof%5Fblepster%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/4/2019 – trash cans are safer – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190404%5Ftrash%5Fcans%5Fare%5Fsafer%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 4/2/2019 – blepster poll results – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190402%5Fblepster%5Fpoll%5Fresults%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 3/18/2019 – redacted – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190318%5Fredacted%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 3/15/2019 – **take my poll** – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190315%5Ftake%5Fmy%5Fpoll%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 3/14/2019 – mealtball – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190314%5Fmealtball%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 3/13/2019 – can of worms – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190313%5Fcan%5Fof%5Fworms%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 3/8/2019 – construction – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190308%5Fconstruction%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 3/5/2019 – blue badge – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190305%5Fblue%5Fbadge%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 2/20/2019 – disneyland paint the night – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190220%5Fdisneyland%5Fpaint%5Fthe%5Fnight%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 2/15/2019 – walls don’t work – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190215%5Fwalls%5Fdont%5Fwork%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
 * 2/15/2019 – do you hear something – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190215%5Fdo%5Fyou%5Fhear%5Fsomething%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
 * 2/12/2019 – no garbage collection – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190212%5Fno%5Fgarbage%5Fcollection%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
 * 2/11/2019 – snow sledding – [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20190211%5Fsnow%5Fsledding%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
