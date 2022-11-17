@@ -37,27 +37,28 @@
 
 ## 2021
 
-* 12/16/2021 - fix for the fix - 
-* 12/10/2021 - security bug - 
-* 12/8/2021 - the bacon - 
-* 11/17/2021 - re-org reason -
-* 11/05/2021 - pre-meeting - 
-* 10/29/2021 - refactoring - 
-* 10/26/2021 - fault tolerant - 
-* 10/19/2021 - the great resignation - 
-* 10/18/2021 - such a scam - 
-* 10/16/2021 - blepster t-shirts - 
-* 10/14/2021 - the backlog -
-* 10/12/2021 - blocks and chains - 
-* 9/20/2021 - passwordless -
-* 8/20/2021 - virtual happy hour - 
-* 8/18/2021 - fall travel plans - 
-* 8/13/2021 - the entire room - 
-* 8/12/2021 - return to office date - 
-* 8/11/2021 - where do you want to sit - 
-* 7/12/2021 - returning to office plans - 
-* 3/6/2021 - i need to start exercising - 
-* 3/3/2021 - planning okrs - 
+* 12/16/2021 - fix for the fix - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211216%5Ffix%5Ffor%5Fthe%5Ffix%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 12/10/2021 - security bug - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211210%5Fsecurity%5Fbug%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 12/8/2021 - the bacon - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211208%5Fthe%5Fbacon%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 11/17/2021 - re-org reason - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211117%5Freorg%5Freason%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 11/05/2021 - pre-meeting - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211105%5Fpre%5Fmeeting%2EJPG&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 11/02/2021 - hen objkts 500k - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211102%5Fhen%5Fobjkts%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 10/29/2021 - refactoring - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211029%5Frefactoring%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 10/26/2021 - fault tolerant - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211026%5Ffault%5Ftolerant%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 10/19/2021 - the great resignation - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211019%5Fgreat%5Fresignation%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 10/18/2021 - such a scam - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211018%5Fsuch%5Fa%5Fscam%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 10/16/2021 - blepster t-shirts - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211016%5Fblepster%5Ft%5Fshirts%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 10/14/2021 - the backlog - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211014%5Fthe%5Fbacklog%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 10/12/2021 - blocks and chains - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20211012%5Fblocks%5Fand%5Fchains%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 9/20/2021 - passwordless - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20210920%5Fpasswordless%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 8/20/2021 - virtual happy hour - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20210820%5Fvirtual%5Fhappy%5Fhour%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 8/18/2021 - fall travel plans - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20210818%5Ffall%5Ftravel%5Fplans%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 8/13/2021 - the entire room - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20210813%5Fthe%5Fentire%5Froom%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 8/12/2021 - return to office date - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20210812%5Freturn%5Fto%5Foffice%5Fdate%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 8/11/2021 - where do you want to sit - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20210811%5Fwhere%5Fdo%5Fyou%5Fwant%5Fto%5Fsit%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 7/12/2021 - returning to office plans - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20210712%5Freturning%5Fto%5Foffice%5Fplans%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 3/6/2021 - i need to start exercising - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20210306%5Fi%5Fneed%5Fto%5Fstart%5Fexercising%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
+* 3/3/2021 - planning okrs - [OneDrive](https://threddyrex-my.sharepoint.com/personal/hello_threddyrex_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics%2F20210303%5Fplanning%5Fokrs%2Ejpg&parent=%2Fpersonal%2Fhello%5Fthreddyrex%5Fcom%2FDocuments%2FShared%2FComics)
 
 
 ## 2020
