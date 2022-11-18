@@ -5,7 +5,10 @@ Threddy 🦖 started in 2017, mostly by accident. I tweeted a gif of a ceramic d
 
 # Links
 
-* [hachyderm.io](https://hachyderm.io/@threddyrex), [mastodon.social](https://mastodon.social/@threddyrex), [Twitter](https://twitter.com/threddyrex) - socials
+* Mastodon
+  * [hachyderm.io](https://hachyderm.io/@threddyrex)
+  * [mastodon.social](https://mastodon.social/@threddyrex)
+* [Twitter](https://twitter.com/threddyrex) - while it's still around
 * [Career Principles](https://github.com/threddyrex/docs/blob/main/career-principles.md) - a document describing principles I follow in my career
 * [Redbubble](https://www.redbubble.com/people/threddythetrex) - t-shirts and other merch
 * [Tenor](https://tenor.com/users/threddyrex) - gifs
