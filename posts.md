@@ -5,6 +5,7 @@
 
 * 11/21/2022 - another hard problem in computer science - [Mastodon Image](https://threddyrexstorage.blob.core.windows.net/posts/20221121_computer_science.png)
 * 11/8/2022 - big party - [Mastodon Image](https://threddyrexstorage.blob.core.windows.net/posts/20221108_big_party.png)
+* 11/1/2022 - github copilot is our only hope - [Twitter Image](https://threddyrexstorage.blob.core.windows.net/posts/20221101_github_copilot.png)
 
 
 ## 2021
