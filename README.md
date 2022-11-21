@@ -16,6 +16,12 @@ Since 2018 I've been creating a comic with Threddy and his pals. You can view th
 * [Threddy Comics](https://github.com/threddyrex/threddyrex/blob/main/comics.md)
 
 
+# Browse the archives
+
+I took screenshots of a few posts that are part of Threddy history.
+
+* [Posts](https://github.com/threddyrex/threddyrex/blob/main/posts.md)
+
 # Links
 
 Some other places you can find Threddy stuff.
