@@ -38,9 +38,9 @@
 ## 2017
 
 
-* 9/29/2017 - stickers announced - [Image](https://threddyrexstorage.blob.core.windows.net/posts/20170929_stickers_announced.png)
-* 9/20/2017 - cyber and roadie are born - [Image](https://threddyrexstorage.blob.core.windows.net/posts/20170920_cyber_roadie_born.png)
-* 8/22/2017 - first gif - [Image](https://threddyrexstorage.blob.core.windows.net/posts/20170821_first_gif.png)
+* 9/29/2017 - stickers announced - [Twitter Image](https://threddyrexstorage.blob.core.windows.net/posts/20170929_stickers_announced.png)
+* 9/20/2017 - cyber and roadie are born - [Twitter Image](https://threddyrexstorage.blob.core.windows.net/posts/20170920_cyber_roadie_born.png)
+* 8/22/2017 - first gif - [Twitter Image](https://threddyrexstorage.blob.core.windows.net/posts/20170821_first_gif.png)
 
 
 
