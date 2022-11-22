@@ -5,6 +5,7 @@
 
 ## 2022
 
+* 11/22/2022 - defederate - [Panel 1](https://threddyrexstorage.blob.core.windows.net/comics/20221122_defederate.jpg)
 * 11/14/2022 - be more hardcore - [Panel 1](https://threddyrexstorage.blob.core.windows.net/comics/20221114%5Fbe%5Fmore%5Fhardcore%2Ejpg)
 * 11/10/2022 - change mastodon server - [Panel 1](https://threddyrexstorage.blob.core.windows.net/comics/20221110%5Fchange%5Fmastodon%5Fserver%2Ejpg)
 * 11/7/2022 - migration guide - [Panel 1](https://threddyrexstorage.blob.core.windows.net/comics/20221107%5Fmigration%5Fguide%2Ejpg)
