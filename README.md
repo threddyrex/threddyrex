@@ -4,10 +4,11 @@ Threddy 🦖 started in 2017, mostly by accident. I tweeted a gif of a ceramic d
 
 # Connect with me
 
-I spend most of my time on Mastodon. I have two accounts:
+I spend most of my time on Mastodon. I have the following accounts:
 
-* [hachyderm.io](https://hachyderm.io/@threddyrex)
 * [mastodon.social](https://mastodon.social/@threddyrex)
+* [hachyderm.io](https://hachyderm.io/@threddyrex)
+* [mastodon.gamedev.place](https://mastodon.gamedev.place/@threddyrex)
 
 # Read the comics
 
