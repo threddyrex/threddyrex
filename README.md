@@ -23,12 +23,13 @@ I took screenshots of a few posts that are part of Threddy history.
 
 * [Posts](https://github.com/threddyrex/threddyrex/blob/main/posts.md)
 
-# Links
+
+# Find Threddy elsewhere
 
 Some other places you can find Threddy stuff.
 
 * [Tenor](https://tenor.com/users/threddyrex) - Threddy gifs.
 * [Redbubble](https://www.redbubble.com/people/threddythetrex) - t-shirts and other merch.
 * [Career Principles](https://github.com/threddyrex/docs/blob/main/career-principles.md) - a document describing principles I follow in my career.
-* [Twitter](https://twitter.com/threddyrex) - I've mostly moved off of this platform, but listed here for historical reasons.
+* Twitter - this account is currently deactivated
 
