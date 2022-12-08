@@ -5,6 +5,7 @@
 
 ## 2022
 
+* 12/7/2022 - satisfying day - [One](https://threddyrexstorage.blob.core.windows.net/comics/20221207_satisfying_day.jpg)
 * 12/2/2022 - jargon jar - [One](https://threddyrexstorage.blob.core.windows.net/comics/20221202_jargon_jar.jpg)
 * 11/26/2022 - the tech is the easy part - [One](https://threddyrexstorage.blob.core.windows.net/comics/20221126_moderation.jpg)
 * 11/22/2022 - defederate - [One](https://threddyrexstorage.blob.core.windows.net/comics/20221122_defederate.jpg)
