@@ -15,6 +15,9 @@ Since 2018 I've been creating a comic with Threddy and his pals. You can view th
 
 * [Threddy Comics](https://github.com/threddyrex/threddyrex/blob/main/comics.md)
 
+In 2022 I started grouping comics for a Year in Review:
+
+* [Year in Review](https://github.com/threddyrex/threddyrex/blob/main/year-in-review.md)
 
 # Browse old tweets and toots
 
