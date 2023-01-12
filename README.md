@@ -33,4 +33,4 @@ Some other places you can find Threddy stuff.
 * [Tenor](https://tenor.com/users/threddyrex) - Threddy gifs.
 * [Redbubble](https://www.redbubble.com/people/threddythetrex) - t-shirts and other merch.
 * [Career Principles](https://github.com/threddyrex/docs/blob/main/career-principles.md) - a document describing principles I follow in my career.
-
+* [Twitter](https://twitter.com/threddyrex) - still hanging around a bit here
