@@ -4,6 +4,7 @@
 
 ## 2023
 
+* 1/12/2023 - unlimited pto - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230112_unlimited_pto.jpg)
 * 1/2/2023 - going back to work - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230102_tuesday_is_tomorrow.jpg)
 
 ## 2022
