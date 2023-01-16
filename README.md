@@ -30,7 +30,8 @@ I took screenshots of a few posts that are part of Threddy history.
 
 Some other places you can find Threddy stuff.
 
+* [Reddit](https://www.reddit.com/user/threddyrex)
+* [Twitter](https://twitter.com/threddyrex) - still hanging around a bit here
 * [Tenor](https://tenor.com/users/threddyrex) - Threddy gifs.
 * [Redbubble](https://www.redbubble.com/people/threddythetrex) - t-shirts and other merch.
 * [Career Principles](https://github.com/threddyrex/docs/blob/main/career-principles.md) - a document describing principles I follow in my career.
-* [Twitter](https://twitter.com/threddyrex) - still hanging around a bit here
