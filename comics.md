@@ -4,6 +4,7 @@
 
 ## 2023
 
+* 1/25/2023 - network outage - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230125_global_outage.jpg)
 * 1/23/2023 - taking responsibility - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230123_taking_responsibility.jpg)
 * 1/20/2023 - do more with less - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230120_do_more_with_less.jpg)
 * 1/12/2023 - unlimited pto - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230112_unlimited_pto.jpg)
