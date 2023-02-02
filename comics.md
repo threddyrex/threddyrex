@@ -264,6 +264,5 @@
 
 ***
 
-<a href="https://mastodon.art/@threddyrex" rel="me">mastodon.art</a>
 
 
