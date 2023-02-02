@@ -2,6 +2,7 @@
 
 ***
 
+
 ## 2023
 
 * 2/1/2023 - all-hands - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230201_all_hands.jpg)
@@ -262,5 +263,7 @@
 
 
 ***
+
+<a href="https://mastodon.art/@threddyrex" rel="me">mastodon.art</a>
 
 
