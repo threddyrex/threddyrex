@@ -1,5 +1,7 @@
 
 
+Copyright ©️ 2018-2023 Threddy Rex, all rights reserved 
+
 ***
 
 
