@@ -7,6 +7,7 @@ Copyright ©️ 2018-2023 Threddy Rex, all rights reserved
 
 ## 2023
 
+* 2/7/2023 - chatgpt - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230207_add_chatgpt_to_blepster.jpg)
 * 2/6/2023 - asks - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230206_asks.jpg)
 * 2/1/2023 - all-hands - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230201_all_hands.jpg)
 * 1/25/2023 - network outage - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230125_global_outage.jpg)
