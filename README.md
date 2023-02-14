@@ -7,7 +7,7 @@ Threddy 🦖 started in 2017, mostly by accident. I tweeted a gif of a ceramic d
 I spend most of my time on Mastodon. I have the following accounts:
 
 * [mastodon.art](https://mastodon.art/@threddyrex) (primary - focused on the comics and other creative stuff)
-* [mastodon.social](https://mastodon.social/@threddyrex) (backup, but still active)
+* [mastodon.social](https://mastodon.social/@threddyrex) (backup, but I check it occasionally)
 
 # Read the comics
 
