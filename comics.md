@@ -7,6 +7,7 @@ Copyright ©️ 2018-2023 Threddy Rex, all rights reserved
 
 ## 2023
 
+* 3/9/2023 - email priority - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230309_email_priority.jpg)
 * 3/5/2023 - the backlog - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230305_the_backlog.png)
 * 2/22/2023 - need to drop - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230222_need_to_drop.jpg)
 * 2/9/2023 - hackathon - [One](https://threddyrexstorage.blob.core.windows.net/comics/20230209_hackathon.jpg)
